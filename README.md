@@ -4,7 +4,18 @@ This is a PHP, MySQL, and phpMyAdmin-based web application that allows users to 
 
 ## Screenshot
 
-![Diet Plan Screenshot](screenshots/diet-plan-screenshot.png)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="screenshots-1.png" alt="Step 1" width="300"/><br/>
+      </td>
+      <td align="center">
+        <img src="screenshots-2.png" alt="Step 2" width="300"/><br/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ## Features
