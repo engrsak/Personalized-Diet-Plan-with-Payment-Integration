@@ -8,10 +8,10 @@ This is a PHP, MySQL, and phpMyAdmin-based web application that allows users to 
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots-1.png" alt="Step 1" width="300"/><br/>
+        <img src="img/screenshots-1.png" alt="Step 1" width="300"/><br/>
       </td>
       <td align="center">
-        <img src="screenshots-2.png" alt="Step 2" width="300"/><br/>
+        <img src="img/screenshots-2.png" alt="Step 2" width="300"/><br/>
       </td>
     </tr>
   </table>
