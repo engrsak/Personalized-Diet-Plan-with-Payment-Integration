@@ -2,20 +2,9 @@
 
 This is a PHP, MySQL, and phpMyAdmin-based web application that allows users to generate a personalized diet plan. Users input their details via a multi-step form wizard. Based on their data (gender, weight, height, target), a suitable plan is assigned. After payment via PayHere, a customized PDF is generated and sent to the user via email.
 
-## Screenshot
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="img/screenshots-1.png" alt="Step 1" width="300"/><br/>
-      </td>
-      <td align="center">
-        <img src="img/screenshots-2.png" alt="Step 2" width="300"/><br/>
-      </td>
-    </tr>
-  </table>
-</div>
+## Screenshots
+![Diet Plan Screenshot](img/screenshot-2.png)
+![Diet Plan Screenshot](img/screenshot-1.png)
 
 
 ## Features
